@@ -1,0 +1,62 @@
+# Site
+repository: ppratakk/ppratakk.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Pornkasem Pratakkul
+title: Programmer Analyst
+email: pornkasem.p@gmail.com
+website: #
+
+# Social links
+twitter_username:
+github_username:  ppratakk
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username:
+linkedin_username: ppratakkul
+# pinterest_username: jekyll
+youtube_username:
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Kla and I'm a Programmer Analyst. As well as develop software I have continuously challenged myself with new computer languages, frameworks and methodologies.
+  My core languages have always been Java but I have also worked as a client support. My current role at DXC.Technology is Programmer Analyst for XML Letter team.
+  Good written and communication English skills. Interested in focusing on backend and system development of large-scale distributed systems.
+
+
+  I am most skilled in: <mark>JAVA</mark> and <mark>Drink coffee</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software development some of my other interests and hobbies are:
+   - Reading
+   - Searching for nice restaurant
+   - Take photo
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
