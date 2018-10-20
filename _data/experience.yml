@@ -1,8 +1,37 @@
-- company: N/A
-  link: N/A
-  job_title: N/A
-  dates: N/A
-  quote: >
-   ...
-  description: | # this will include new lines to allow paragraphs
-    n/a
+- company: DXC.Technology (Thailand)
+  link: http://www.dxc.technology/
+  job_title: Professional Programmer Analyst
+  dates: July 2017 - Present
+  description: |
+              **Support site:** Sompo Insurance Thailand  
+              **Responsibilities:**
+              -	Design and Develop XML Letter Module.
+              - Customizes software based on research and customer needs as appropriate.
+              -	Discuss with user directly to provide solution and support.
+              -	Monitoring system and solve the problem which come from client.
+
+              - - -
+- company: DST Worldwide Services (Thailand) Limited
+  link: https://www.dstsystems.com/
+  job_title: Programmer
+  dates: February 2016 - June 2017
+  description: |
+                **Responsibilities:**
+                -	Develop a web application that provides online payment and financial printing using Java, HTML, JavaScript, CSS and Oracle
+                - Develop a backend system such as statement, enrollment, Email notification and payments using Java, korn shell and Oracle.
+                - Develop Restful webservice application that provide service related to Statement data, Consumer data, Payment information using Java, Spring MVC
+                - Monitoring system and customer supporting.
+
+                - - -
+
+- company: e-Synergy (Thailand) Co., Ltd
+  link: https://www.dstsystems.com/
+  job_title: System Developer
+  dates: May 2014 - January 2016
+  description: |
+                **Responsibilities:**
+                -	Programming and testing based on design sessions and customer issues.
+                -	Developing and re-factoring existing products, providing product enhancements and resolving problems.
+                -	Monitoring system and customer supporting.
+
+                - - -
